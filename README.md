@@ -1,4 +1,6 @@
-## Hi there 👋
+git add PROJECT_OVERVIEW.md
+git commit -m "Dodano overview projektu SuperkumpelApp"
+git push## Hi there 👋
 
 <!--
 **jackbauerbush/jackbauerbush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
